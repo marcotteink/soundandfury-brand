@@ -3,7 +3,10 @@
 The official brand identity page for **Sound & Fury Print Shop** (Warrenville, IL).
 Logos, colors, typography, usage rules, and downloadable logo files in one place.
 
-**Live site:** https://marcotteink.github.io/soundandfury-brand/
+> ⚠️ **The live brand page has moved to https://soundandfuryprint.com/brand/**
+> (served from the [`soundandfury-site`](https://github.com/marcotteink/soundandfury-site) repo under `brand/`).
+> This repo's `index.html` now only **redirects** there — **edit the live page in `soundandfury-site/brand/`**, not here.
+> This repo stays as the **source/master** for the logo files below (`.ai`, SVGs, PNGs, asset-pack zip).
 
 ## What's here
 
